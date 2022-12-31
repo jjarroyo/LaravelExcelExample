@@ -3,7 +3,7 @@
 <br>
 1 ejecutar composer install
 <br>
-2 ejecutar npm instal y npm run dev (para que se instale bootstrap)
+2 ejecutar npm install y npm run dev (para que se instale bootstrap)
 <br>
 3 php artisan serve
 <br>
