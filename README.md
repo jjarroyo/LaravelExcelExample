@@ -8,6 +8,9 @@
 3 php artisan serve
 <br>
 4 listo
+<br><br><br>
+
+https://www.rincondeproyectos.com/2022/12/crear-archivo-excel-en-laravel.html
 
 
 
